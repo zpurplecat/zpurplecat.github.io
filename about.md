@@ -9,7 +9,7 @@ Mi nombre es Purple Cat, comienzo este proyecto con el propósito de continuar a
 </p>
 
 <p style="text-align: justify;">
- Comencemos este largo viaje y acompañame a descrubir un nuevo mundo lleno de retos.
+ Comencemos este largo viaje y acompañame a descubrir un nuevo mundo lleno de retos.
 </p>
 
 <p style="text-align: center;">
